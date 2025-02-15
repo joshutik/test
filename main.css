@@ -1,0 +1,16 @@
+img {
+    max-width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  #store-items {
+    width: 23%;
+    max-width: 20%;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    border: 1px solid black;
+    box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
+  }
